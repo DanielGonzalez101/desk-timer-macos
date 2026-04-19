@@ -1,0 +1,7 @@
+{
+  "pythonPath": "/usr/bin/python3",
+  "reportMissingModuleSource": "none",
+  "reportUnknownMemberType": "none",
+  "reportAttributeAccessIssue": "none",
+  "typeCheckingMode": "off"
+}
